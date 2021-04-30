@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Entitati>
+    <student ID=" ">
+        <Nume>wayne</Nume>
+        <Grupa>937</Grupa>
+    </student>
+    <student ID="1">
+        <Nume>Wayne</Nume>
+        <Grupa>937</Grupa>
+    </student>
+    <student ID="100">
+        <Nume>Wayne</Nume>
+        <Grupa>937</Grupa>
+    </student>
+    <student ID="a">
+        <Nume>wayne</Nume>
+        <Grupa>937</Grupa>
+    </student>
+    <student ID="111">
+        <Nume>wayne</Nume>
+        <Grupa>937</Grupa>
+    </student>
+    <student ID="2">
+        <Nume>student-test-1</Nume>
+        <Grupa>111</Grupa>
+    </student>
+    <student ID="a1b2c3">
+        <Nume>wayne</Nume>
+        <Grupa>937</Grupa>
+    </student>
+    <student ID="id1">
+        <Nume>1</Nume>
+        <Grupa>937</Grupa>
+    </student>
+    <student ID="z">
+        <Nume>wayne</Nume>
+        <Grupa>937</Grupa>
+    </student>
+</Entitati>

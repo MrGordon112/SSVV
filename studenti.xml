@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Entitati>
+    <student ID="11">
+        <Nume>wayne</Nume>
+        <Grupa>937</Grupa>
+    </student>
+    <student ID=" ">
+        <Nume>wayne</Nume>
+        <Grupa>937</Grupa>
+    </student>
+    <student ID="a">
+        <Nume>Wayne</Nume>
+        <Grupa>937</Grupa>
+    </student>
+    <student ID="1">
+        <Nume>andreas</Nume>
+        <Grupa>937</Grupa>
+    </student>
+    <student ID="100">
+        <Nume>Wayne</Nume>
+        <Grupa>937</Grupa>
+    </student>
+    <student ID="111">
+        <Nume>wayne</Nume>
+        <Grupa>937</Grupa>
+    </student>
+    <student ID="2">
+        <Nume>Maria</Nume>
+        <Grupa>222</Grupa>
+    </student>
+    <student ID="4">
+        <Nume>Ion</Nume>
+        <Grupa>227</Grupa>
+    </student>
+    <student ID="5">
+        <Nume>tinel</Nume>
+        <Grupa>932</Grupa>
+    </student>
+    <student ID="a1b2c3">
+        <Nume>wayne</Nume>
+        <Grupa>937</Grupa>
+    </student>
+    <student ID="6">
+        <Nume>andrei</Nume>
+        <Grupa>937</Grupa>
+    </student>
+    <student ID="7">
+        <Nume>cosmin</Nume>
+        <Grupa>936</Grupa>
+    </student>
+    <student ID="id1">
+        <Nume> </Nume>
+        <Grupa>937</Grupa>
+    </student>
+    <student ID="8">
+        <Nume>daniela</Nume>
+        <Grupa>934</Grupa>
+    </student>
+    <student ID="z">
+        <Nume>wayne</Nume>
+        <Grupa>937</Grupa>
+    </student>
+</Entitati>
